@@ -19,4 +19,5 @@ let sampleDataTitles : [String] = [
     "8 Music",
     "9 News",
     "10 Sample Download",
+    "11 Test"
 ]
