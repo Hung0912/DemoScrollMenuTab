@@ -1,0 +1,16 @@
+PODS:
+  - ViewPagerController (2.0.0)
+
+DEPENDENCIES:
+  - ViewPagerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ViewPagerController
+
+SPEC CHECKSUMS:
+  ViewPagerController: 42adfb89af78c7a86eb60cb48f3561ff5f3879b0
+
+PODFILE CHECKSUM: 8e7351f97c768b3195c47bf82a1240c341f9adee
+
+COCOAPODS: 1.7.2
